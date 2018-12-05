@@ -76,7 +76,7 @@ int main(int argc,char ** argv)
         }
     }
 
-   // printf("last add\n");
+    printf("last add by liro\n");
 
 		/****************tailq test****************************
 		//定义一个结构体指针
